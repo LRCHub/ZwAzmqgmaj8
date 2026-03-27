@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Bad Girl",
+  "base_artist": "HANA",
+  "createdAt": "2026-03-27T12:07:56.229212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BAD GIRL",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_BAD_GIRL_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Girl (The Cataracs Remix)",
+      "artist": "Girls' Generation feat. DEV",
+      "has_synced": false,
+      "path": "select/02_Bad_Girl_(The_Cataracs_Remix)_Girls'_Generation_feat._DEV.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BAD Girl Feat.DEV (The Cataracs Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/03_BAD_Girl_Feat.DEV_(The_Cataracs_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Girl",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_Bad_Girl_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Girl",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Bad_Girl_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Girl",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_Bad_Girl_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Girl",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_Bad_Girl_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Girl (feat. Trey Songz & Robin Thicke)",
+      "artist": "A Boogie Wit da Hoodie feat. Trey Songz & Robin Thicke",
+      "has_synced": true,
+      "path": "select/08_Bad_Girl_(feat._Trey_Songz_&_Robin_Thicke)_A_Boogie_Wit_da_Hoodie_feat._Trey_Songz_&_Robin_Thicke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Girl (feat. Trey Songz & Robin Thicke)",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/09_Bad_Girl_(feat._Trey_Songz_&_Robin_Thicke)_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "& Down - Teenage Bad Girl Remix",
+      "artist": "Boys Noize",
+      "has_synced": false,
+      "path": "select/10_&_Down_-_Teenage_Bad_Girl_Remix_Boys_Noize.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "bad girl",
+      "artist": "Tei Shi",
+      "has_synced": false,
+      "path": "select/11_bad_girl_Tei_Shi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Needy Girl (Teenage Bad Girl remix)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/12_Needy_Girl_(Teenage_Bad_Girl_remix)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Girl",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/13_Bad_Girl_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little Bad Girl",
+      "artist": "Taio Cruz feat. David Guetta & Ludacris",
+      "has_synced": true,
+      "path": "select/14_Little_Bad_Girl_Taio_Cruz_feat._David_Guetta_&_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little Bad Girl (Feat. Taio Cruz & Ludacris)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/15_Little_Bad_Girl_(Feat._Taio_Cruz_&_Ludacris)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little Bad Girl (feat. Taio Cruz & Ludacris)",
+      "artist": "David Guetta feat. Ludacris & Taio Cruz",
+      "has_synced": false,
+      "path": "select/16_Little_Bad_Girl_(feat._Taio_Cruz_&_Ludacris)_David_Guetta_feat._Ludacris_&_Taio_Cruz.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Like Something 4 Porno! (Teenage Bad Girl Remix)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/17_Like_Something_4_Porno!_(Teenage_Bad_Girl_Remix)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bad Girl",
+      "artist": "New York Dolls",
+      "has_synced": true,
+      "path": "select/18_Bad_Girl_New_York_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Girls Just Wanna Have Fun - Bad Girl Remix By The Fire",
+      "artist": "Emilie Autumn",
+      "has_synced": false,
+      "path": "select/19_Girls_Just_Wanna_Have_Fun_-_Bad_Girl_Remix_By_The_Fire_Emilie_Autumn.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Girls Just Wanna Have Fun (Bad Girl remix by The Fire)",
+      "artist": "Emilie Autumn",
+      "has_synced": false,
+      "path": "select/20_Girls_Just_Wanna_Have_Fun_(Bad_Girl_remix_by_The_Fire)_Emilie_Autumn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Girl",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Girl_HANA.txt"
+    }
+  ]
+}
